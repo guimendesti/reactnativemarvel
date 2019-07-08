@@ -3,7 +3,7 @@ App Modelo React Native - API Marvel - Infinite Scroll
 
 <br />
 
-# Instalar Dependẽncias
+# Instalar Dependências
 <blockquote>npm install</blockquote>
 
 <br />
