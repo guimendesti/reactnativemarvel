@@ -2,10 +2,12 @@
 App Modelo React Native - API Marvel - Infinite Scroll
 
 <br />
+
 # Instalar Dependẽncias
 <blockquote>npm install</blockquote>
 
 <br />
+
 # Debug em AVD ou dispositivo por USB
 <h3>Primeiro inicie o servidor</h3>
 <blockquote>react-native start</blockquote>
@@ -13,12 +15,14 @@ App Modelo React Native - API Marvel - Infinite Scroll
 <blockquote>react-native run-android</blockquote>
 
 <br />
+
 # Teste Rederização com Jest
 <blockquote>
   npm test
 </blockquote>
 
 <br />
+
 # Nova release
 <blockquote>
   cd ./android
